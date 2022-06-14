@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ashwin-bot
 - 👀 I’m interested in writting poems 
-- 🌱 I’m currently learning HTML and CSS
 - 📫 My email is ashwinruke2002@gmail.com
 -    I'm currently doing BTech in Artificial Intelligence
 <!---
